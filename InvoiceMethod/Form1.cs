@@ -17,13 +17,6 @@ namespace InvoiceMethod
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            
-            //MessageBox.Show(two);
-
-        }
-
         public string GetNumbers()
         {
             string number = textBox1.Text;
@@ -79,7 +72,5 @@ namespace InvoiceMethod
             DataTable t = dataBase.InvoiceData(number);
             TableDataRow(t);
         }
-
-        
     }
 }
