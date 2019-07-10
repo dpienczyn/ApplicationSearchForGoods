@@ -1,0 +1,10 @@
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\bin\Debug\InvoiceMethod.exe.config
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\bin\Debug\InvoiceMethod.exe
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\bin\Debug\InvoiceMethod.pdb
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\obj\Debug\InvoiceMethod.csprojAssemblyReference.cache
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\obj\Debug\InvoiceMethod.Form1.resources
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\obj\Debug\InvoiceMethod.Properties.Resources.resources
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\obj\Debug\InvoiceMethod.csproj.GenerateResource.cache
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\obj\Debug\InvoiceMethod.csproj.CoreCompileInputs.cache
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\obj\Debug\InvoiceMethod.exe
+C:\Users\Dominika\source\repos\InvoiceMethod\InvoiceMethod\obj\Debug\InvoiceMethod.pdb
